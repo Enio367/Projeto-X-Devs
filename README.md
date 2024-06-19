@@ -15,6 +15,7 @@ Ele foi desenvolvido como parte de um aprendizado em desenvolvimento web.
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
 
+- VS Code
 - [Git](https://git-scm.com)
 - Um navegador web moderno (como Google Chrome, Mozilla Firefox, etc.)
 
