@@ -1,6 +1,6 @@
-# Meu Projeto Web
+# Projeto-X-Devs
 
-Bem-vindo ao Meu Projeto Web!
+Bem-vindo ao Projeto-X-Devs!
 
 Este projeto é um exemplo de como criar uma aplicação web utilizando HTML para a estrutura, CSS para o estilo e JavaScript para a interatividade.
 Ele foi desenvolvido como parte de um aprendizado em desenvolvimento web.
@@ -28,7 +28,7 @@ Após abrir o site `(https://enio367.github.io/Projeto-X-Devs/)` no navegador, v
 A estrutura do projeto é a seguinte:
 
 ```
-meu-projeto-web/
+x-Devs/
 ├── css/
 │   └── style.css
 │   └── reset.css
